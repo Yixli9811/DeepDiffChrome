@@ -1,6 +1,4 @@
-Final Project for COMSW 4995
-
-# DeepDiffChrome
+# Final Project for COMSW 4995: DeepDiffChrome
 
 [DeepDiff: Deep-learning for predicting Differential
 gene expression from histone modifications](https://academic.oup.com/bioinformatics/article/34/17/i891/5093224)
